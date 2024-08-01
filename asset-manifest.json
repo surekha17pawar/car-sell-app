@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/car-sell-app/static/css/main.6a05cd94.css",
+    "main.js": "/car-sell-app/static/js/main.6ed40a9c.js",
+    "static/js/453.4f4f1eb4.chunk.js": "/car-sell-app/static/js/453.4f4f1eb4.chunk.js",
+    "index.html": "/car-sell-app/index.html",
+    "main.6a05cd94.css.map": "/car-sell-app/static/css/main.6a05cd94.css.map",
+    "main.6ed40a9c.js.map": "/car-sell-app/static/js/main.6ed40a9c.js.map",
+    "453.4f4f1eb4.chunk.js.map": "/car-sell-app/static/js/453.4f4f1eb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a05cd94.css",
+    "static/js/main.6ed40a9c.js"
+  ]
+}
